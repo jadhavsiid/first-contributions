@@ -98,8 +98,8 @@ StyleCopReport.xml
 *.svclog
 *.scc
 
-# Chutzpah Test files
-_Chutzpah*
+# Random Test files
+_Random*
 
 # Visual C++ cache files
 ipch/
